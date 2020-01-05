@@ -1,0 +1,2 @@
+https://sourceforge.net/projects/libpng/files/libpng16/1.6.37/libpng-1.6.37.tar.gz/download
+https://github.com/boostorg/gil/archive/master.zip

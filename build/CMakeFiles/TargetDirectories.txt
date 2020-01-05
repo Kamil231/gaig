@@ -1,0 +1,3 @@
+/home/kamil/Desktop/gaig/build/CMakeFiles/rebuild_cache.dir
+/home/kamil/Desktop/gaig/build/CMakeFiles/edit_cache.dir
+/home/kamil/Desktop/gaig/build/CMakeFiles/gaig.dir
